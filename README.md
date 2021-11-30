@@ -1,9 +1,9 @@
 - 👋 Hi, I’m Samson Tontoye
 - 👀 I’m interested in Data science and Machine learning Engineering, Data visualization and all things data related
-- 🔭 I’m currently working on building ml products that scale.
+- 🔭 I’m currently working on building ML products that scale.
 - 🌱 I’m currently learning and building projects on structured and unstructured datasets using scikit-learn machine learning algorithm, Tensorflow and pytorch for deep learning.
 - 💞️ I’m currently looking to collaborate on open source tools for data science and machine learning and data science projects that are specifically about analyzing and modelling large datasets using machine learning algorithms. 
-- 💬 Ask me about programming , Robotics , Machine Learning and Data Science.
+- 💬 Ask me about programming with python, Data Analytics, Machine Learning and Data Science.
 - 📫 Reach me via twitter @Samsontontoye, Linkedin: Samson Tontoye or via email(samsontontoye@gmail.com).
 - 😄 ⚡ I'm open to work around the world
 
