@@ -1,7 +1,7 @@
+## - 👋 Hi, I’m Samson Tontoye
+
 ![](https://komarev.com/ghpvc/?username=samsontontoye)
 
-
-- 👋 Hi, I’m Samson Tontoye
 - 👀 I’m interested in Data science and Machine learning Engineering, Data visualization and all things data related
 - 🔭 I’m currently working on building ML products that scale.
 - 🌱 I’m currently learning and building projects on structured and unstructured datasets using scikit-learn machine learning algorithm, Tensorflow and pytorch for deep learning.
