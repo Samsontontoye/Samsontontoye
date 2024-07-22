@@ -12,6 +12,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emclaniyi&layout=compact&theme=gotham&hide=html&langs_count=12)](https://github.com/samsontontoye/github-readme-stats)
 
+ [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emclaniyi)](https://github.com/samsontontoye/github-readme-stats)
+
 
 <!---
 Samsontontoye/Samsontontoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
