@@ -10,9 +10,6 @@
 - 📫 Reach me via twitter @Samsontontoye, Linkedin: Samson Tontoye or via email(samsontontoye@gmail.com).
 - 😄 ⚡ I'm open to work around the world
 
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=emclaniyi)](https://github.com/samsontontoye/github-readme-stats)
-
-
 <!---
 Samsontontoye/Samsontontoye is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
